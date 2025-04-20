@@ -58,3 +58,5 @@ div#imagem {
     display: block;
 }
 div#formulario { padding: 10px;}
+
+div#formulario > p { font-size: 0.8em; }
